@@ -1,0 +1,10 @@
+{
+  "name": "PowerPulse",
+  "description": "An electricity response platform connecting communities, electricity service providers and electricity service operators.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
